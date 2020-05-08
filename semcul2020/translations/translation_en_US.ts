@@ -361,7 +361,7 @@
             <translation type="obsolete">En este momento estamos en el laboratorio FABLAB de ingenieria Industrial</translation>
         </message>
         <message>
-            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/translations/behavior_1/behavior.xar" line="0"/>
+            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/translations/behavior_1/behavior.xar" line="0"/>
             <source></source>
             <comment>Text</comment>
             <translation></translation>
@@ -395,7 +395,7 @@
             <translation type="obsolete">Tengo 6 años, aún soy muy joven. \PAU=300\ A Colombia llegué hace 10 meses.</translation>
         </message>
         <message>
-            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/translations/behavior_1/behavior.xar" line="0"/>
+            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/translations/behavior_1/behavior.xar" line="0"/>
             <source></source>
             <comment>Text</comment>
             <translation></translation>
@@ -404,7 +404,7 @@
     <context>
         <name>behavior_1/behavior.xar:/Eres</name>
         <message>
-            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../choregraphe-suite-2.5.10.7-linux64/translations/behavior_1/behavior.xar" line="0"/>
+            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../choregraphe-suite-2.5.10.7-linux64/translations/behavior_1/behavior.xar" line="0"/>
             <source></source>
             <comment>Text</comment>
             <translation></translation>
@@ -484,7 +484,7 @@
             <translation type="obsolete">Hola, ¡Mucho gusto!</translation>
         </message>
         <message>
-            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/translations/behavior_1/behavior.xar" line="0"/>
+            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/translations/behavior_1/behavior.xar" line="0"/>
             <source></source>
             <comment>Text</comment>
             <translation></translation>
@@ -576,7 +576,7 @@
     <context>
         <name>behavior_1/behavior.xar:/Saludo</name>
         <message>
-            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/translations/behavior_1/behavior.xar" line="0"/>
+            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/translations/behavior_1/behavior.xar" line="0"/>
             <source></source>
             <comment>Text</comment>
             <translation></translation>
@@ -585,7 +585,7 @@
     <context>
         <name>behavior_1/behavior.xar:/Saludo (1)</name>
         <message>
-            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/translations/behavior_1/behavior.xar" line="0"/>
+            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/translations/behavior_1/behavior.xar" line="0"/>
             <source></source>
             <comment>Text</comment>
             <translation></translation>
@@ -594,7 +594,7 @@
     <context>
         <name>behavior_1/behavior.xar:/Saludo (2)</name>
         <message>
-            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/translations/behavior_1/behavior.xar" line="0"/>
+            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/translations/behavior_1/behavior.xar" line="0"/>
             <source></source>
             <comment>Text</comment>
             <translation></translation>
@@ -603,7 +603,7 @@
     <context>
         <name>behavior_1/behavior.xar:/Saludo (3)</name>
         <message>
-            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/translations/behavior_1/behavior.xar" line="0"/>
+            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/translations/behavior_1/behavior.xar" line="0"/>
             <source></source>
             <comment>Text</comment>
             <translation></translation>
@@ -612,7 +612,7 @@
     <context>
         <name>behavior_1/behavior.xar:/Saludo (4)</name>
         <message>
-            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/choregraphe-suite-2.5.10.7-linux64/bin/translations/behavior_1/behavior.xar" line="0"/>
+            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/choregraphe-suite-2.5.10.7-linux64/bin/translations/behavior_1/behavior.xar" line="0"/>
             <source></source>
             <comment>Text</comment>
             <translation></translation>
@@ -621,7 +621,7 @@
     <context>
         <name>behavior_1/behavior.xar:/Saludo (5)</name>
         <message>
-            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/choregraphe-suite-2.5.10.7-linux64/bin/translations/behavior_1/behavior.xar" line="0"/>
+            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/choregraphe-suite-2.5.10.7-linux64/bin/translations/behavior_1/behavior.xar" line="0"/>
             <source></source>
             <comment>Text</comment>
             <translation></translation>
@@ -1093,16 +1093,33 @@
     <context>
         <name>behavior_1/behavior.xar:/invitacion</name>
         <message>
-            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../translations/behavior_1/behavior.xar" line="0"/>
+            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../translations/behavior_1/behavior.xar" line="0"/>
             <source></source>
             <comment>Text</comment>
             <translation></translation>
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/libro/Say</name>
+        <message>
+            <source>Hello</source>
+            <comment>Text</comment>
+            <translation type="vanished">Hello</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/libro/editorial</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Este libro tiene el sello de calidad de Editorial Unimagdalena.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Este libro tiene el sello de calidad de Editorial Unimagdalena.</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/poema</name>
         <message>
-            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/choregraphe-suite-2.5.10.7-linux64/bin/translations/behavior_1/behavior.xar" line="0"/>
+            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/choregraphe-suite-2.5.10.7-linux64/bin/translations/behavior_1/behavior.xar" line="0"/>
             <source></source>
             <comment>Text</comment>
             <translation></translation>
@@ -1129,7 +1146,7 @@
             <translation type="obsolete">¡Perfecto!</translation>
         </message>
         <message>
-            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/choregraphe-suite-2.5.10.7-linux64/bin/translations/behavior_1/behavior.xar" line="0"/>
+            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/choregraphe-suite-2.5.10.7-linux64/bin/translations/behavior_1/behavior.xar" line="0"/>
             <source></source>
             <comment>Text</comment>
             <translation></translation>
@@ -1298,7 +1315,7 @@
     <context>
         <name>behavior_1/behavior.xar:/siembra/Edad</name>
         <message>
-            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/choregraphe-suite-2.5.10.7-linux64/bin/translations/behavior_1/behavior.xar" line="0"/>
+            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/choregraphe-suite-2.5.10.7-linux64/bin/translations/behavior_1/behavior.xar" line="0"/>
             <source></source>
             <comment>Text</comment>
             <translation></translation>
@@ -1307,7 +1324,7 @@
     <context>
         <name>behavior_1/behavior.xar:/siembra/Eres</name>
         <message>
-            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/choregraphe-suite-2.5.10.7-linux64/bin/translations/behavior_1/behavior.xar" line="0"/>
+            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/choregraphe-suite-2.5.10.7-linux64/bin/translations/behavior_1/behavior.xar" line="0"/>
             <source></source>
             <comment>Text</comment>
             <translation></translation>
@@ -1396,7 +1413,7 @@
     <context>
         <name>behavior_1/behavior.xar:/siembra/Saludo</name>
         <message>
-            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/choregraphe-suite-2.5.10.7-linux64/bin/translations/behavior_1/behavior.xar" line="0"/>
+            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/choregraphe-suite-2.5.10.7-linux64/bin/translations/behavior_1/behavior.xar" line="0"/>
             <source></source>
             <comment>Text</comment>
             <translation></translation>
@@ -1405,7 +1422,7 @@
     <context>
         <name>behavior_1/behavior.xar:/siembra/Saludo (1)</name>
         <message>
-            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/choregraphe-suite-2.5.10.7-linux64/bin/translations/behavior_1/behavior.xar" line="0"/>
+            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/choregraphe-suite-2.5.10.7-linux64/bin/translations/behavior_1/behavior.xar" line="0"/>
             <source></source>
             <comment>Text</comment>
             <translation></translation>
@@ -1414,7 +1431,7 @@
     <context>
         <name>behavior_1/behavior.xar:/siembra/Saludo (2)</name>
         <message>
-            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/choregraphe-suite-2.5.10.7-linux64/bin/translations/behavior_1/behavior.xar" line="0"/>
+            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/choregraphe-suite-2.5.10.7-linux64/bin/translations/behavior_1/behavior.xar" line="0"/>
             <source></source>
             <comment>Text</comment>
             <translation></translation>
@@ -1423,7 +1440,7 @@
     <context>
         <name>behavior_1/behavior.xar:/siembra/Saludo (3)</name>
         <message>
-            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/choregraphe-suite-2.5.10.7-linux64/bin/translations/behavior_1/behavior.xar" line="0"/>
+            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/choregraphe-suite-2.5.10.7-linux64/bin/translations/behavior_1/behavior.xar" line="0"/>
             <source></source>
             <comment>Text</comment>
             <translation></translation>
@@ -1445,7 +1462,7 @@
     <context>
         <name>behavior_1/behavior.xar:/siembra/Say1</name>
         <message>
-            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/translations/behavior_1/behavior.xar" line="0"/>
+            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/translations/behavior_1/behavior.xar" line="0"/>
             <source></source>
             <comment>Text</comment>
             <translation></translation>
@@ -1590,7 +1607,7 @@
     <context>
         <name>behavior_1/behavior.xar:/siembra/gracias</name>
         <message>
-            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/choregraphe-suite-2.5.10.7-linux64/bin/translations/behavior_1/behavior.xar" line="0"/>
+            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/choregraphe-suite-2.5.10.7-linux64/bin/translations/behavior_1/behavior.xar" line="0"/>
             <source></source>
             <comment>Text</comment>
             <translation></translation>
@@ -1599,7 +1616,7 @@
     <context>
         <name>behavior_1/behavior.xar:/siembra/pregunta1</name>
         <message>
-            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/choregraphe-suite-2.5.10.7-linux64/bin/translations/behavior_1/behavior.xar" line="0"/>
+            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/choregraphe-suite-2.5.10.7-linux64/bin/translations/behavior_1/behavior.xar" line="0"/>
             <source></source>
             <comment>Text</comment>
             <translation></translation>
@@ -1608,7 +1625,7 @@
     <context>
         <name>behavior_1/behavior.xar:/siembra/pregunta1 (1)</name>
         <message>
-            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/choregraphe-suite-2.5.10.7-linux64/bin/translations/behavior_1/behavior.xar" line="0"/>
+            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/choregraphe-suite-2.5.10.7-linux64/bin/translations/behavior_1/behavior.xar" line="0"/>
             <source></source>
             <comment>Text</comment>
             <translation></translation>
@@ -1617,7 +1634,7 @@
     <context>
         <name>behavior_1/behavior.xar:/siembra/pregunta2</name>
         <message>
-            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/choregraphe-suite-2.5.10.7-linux64/bin/translations/behavior_1/behavior.xar" line="0"/>
+            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/choregraphe-suite-2.5.10.7-linux64/bin/translations/behavior_1/behavior.xar" line="0"/>
             <source></source>
             <comment>Text</comment>
             <translation></translation>
@@ -1666,7 +1683,7 @@
     <context>
         <name>behavior_1/behavior.xar:/siembra/siembra/pregunta1</name>
         <message>
-            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/choregraphe-suite-2.5.10.7-linux64/bin/translations/behavior_1/behavior.xar" line="0"/>
+            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/choregraphe-suite-2.5.10.7-linux64/bin/translations/behavior_1/behavior.xar" line="0"/>
             <source></source>
             <comment>Text</comment>
             <translation></translation>
@@ -1675,7 +1692,7 @@
     <context>
         <name>behavior_1/behavior.xar:/siembra/siembra/pregunta1 (1)</name>
         <message>
-            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/choregraphe-suite-2.5.10.7-linux64/bin/translations/behavior_1/behavior.xar" line="0"/>
+            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/choregraphe-suite-2.5.10.7-linux64/bin/translations/behavior_1/behavior.xar" line="0"/>
             <source></source>
             <comment>Text</comment>
             <translation></translation>
@@ -1684,7 +1701,7 @@
     <context>
         <name>behavior_1/behavior.xar:/siembra/siembra/pregunta2</name>
         <message>
-            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/choregraphe-suite-2.5.10.7-linux64/bin/translations/behavior_1/behavior.xar" line="0"/>
+            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/Descargas/choregraphe-suite-2.5.10.7-linux64/bin/translations/behavior_1/behavior.xar" line="0"/>
             <source></source>
             <comment>Text</comment>
             <translation></translation>
@@ -1693,7 +1710,7 @@
     <context>
         <name>behavior_1/behavior.xar:/sisas</name>
         <message>
-            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../translations/behavior_1/behavior.xar" line="0"/>
+            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../translations/behavior_1/behavior.xar" line="0"/>
             <source></source>
             <comment>Text</comment>
             <translation></translation>
@@ -1702,7 +1719,7 @@
     <context>
         <name>behavior_1/behavior.xar:/todo bien</name>
         <message>
-            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../translations/behavior_1/behavior.xar" line="0"/>
+            <location filename="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../translations/behavior_1/behavior.xar" line="0"/>
             <source></source>
             <comment>Text</comment>
             <translation></translation>
