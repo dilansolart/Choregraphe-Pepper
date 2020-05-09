@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package uuid="gradu" version="0.0.1">
+<package uuid="semcul" version="0.0.1">
  <names>
-  <name lang="en_US">gradu</name>
-  <name lang="es_ES">tablet</name>
+  <name lang="en_US">semcul</name>
+  <name lang="es_ES">semcul</name>
  </names>
  <supportedLanguages>
   <language>en_US</language>

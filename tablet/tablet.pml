@@ -5,21 +5,14 @@
     <Dialogs />
     <Resources>
         <File name="index" src="html/index.html" />
-        <File name="angelica" src="html/img/angelica.jpg" />
-        <File name="double-tail-spin" src="html/img/double-tail-spin.svg" />
-        <File name="erick" src="html/img/erick.jpg" />
-        <File name="fabio" src="html/img/fabio.jpg" />
-        <File name="francisco" src="html/img/francisco.jpg" />
-        <File name="gisella" src="html/img/gisella.jpg" />
-        <File name="isaura" src="html/img/isaura.jpg" />
-        <File name="jose" src="html/img/jose.jpg" />
-        <File name="josemar" src="html/img/josemar.jpg" />
-        <File name="kevin" src="html/img/kevin.jpg" />
-        <File name="maria" src="html/img/maria.jpg" />
-        <File name="mayra" src="html/img/mayra.jpg" />
-        <File name="neddy" src="html/img/neddy.jpg" />
-        <File name="ricardo" src="html/img/ricardo.jpg" />
-        <File name="jssor.slider-28.0.0.min" src="html/js/jssor.slider-28.0.0.min.js" />
+        <File name="La vida en torno al covid Premiación-01" src="html/img/La vida en torno al covid Premiación-01.jpg" />
+        <File name="banner" src="html/img/banner.png" />
+        <File name="gana1" src="html/puesto1/gana1.jpg" />
+        <File name="puesto1" src="html/puesto1/puesto1.html" />
+        <File name="gana2" src="html/puesto2/gana2.jpg" />
+        <File name="puesto2" src="html/puesto2/puesto2.html" />
+        <File name="gana3" src="html/puesto3/gana3.jpg" />
+        <File name="puesto3" src="html/puesto3/puesto3.html" />
     </Resources>
     <Topics />
     <IgnoredPaths />
